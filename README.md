@@ -3,5 +3,5 @@
 i shit!!!
 i work on mods!!!
 im a toddler!!!!
-<img src="https://imgur.com/a/TviGQZa">
+![Imgur Image](https://i.imgur.com/a/TviGQZa.png)
 
