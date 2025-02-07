@@ -1,3 +1,3 @@
-### the ebn!!! (ebon!)
-![Imgur Image](https://i.imgur.com/AjYpQuK.png)
+Lead dev at https://github.com/Ebon1/EbonMod
 
+Contributed to https://github.com/tModLoader/tModLoader
